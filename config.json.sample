@@ -1,0 +1,6 @@
+{
+    "check_interval": 5,
+    "jellyfin_server": "http://localhost:8096",
+    "api_key": "CHANGEME",
+    "retries": 3
+}
